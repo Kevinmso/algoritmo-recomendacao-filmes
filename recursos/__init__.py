@@ -1,0 +1,3 @@
+from recursos.recomendacao import recomendacao
+from recursos.barra_de_pesquisa import BarraDePesquisa
+from recursos.exibir_resultados import ExibirResultados
